@@ -2,7 +2,7 @@
 layout: post
 title: "Airgapped AI Cloud"
 author: "RubLeo"
-tags: Tale
+tags: Kubernetes, DevSecOps, MLOps
 ---
 
 Here goes the text.
