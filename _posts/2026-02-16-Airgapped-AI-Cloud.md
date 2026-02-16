@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Airgapped AI Cloud"
-date: 2026-02-16
+author: "RubLeo"
+tags: Tale
 ---
 
 Here goes the text.
