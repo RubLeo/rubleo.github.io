@@ -1,4 +1,12 @@
-theme: minima
+# theme: minima
+remote_theme: chesterhow/tale
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
 title: Personal blog and projects
 description: Bookmark this to keep an eye on my project updates!
 author: RubLeo
